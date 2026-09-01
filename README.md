@@ -23,6 +23,9 @@ Two UX project scenarios were analyzed:
 
 2. E-Commerce Website – Problem statements, suitable research methods, and two user personas were created to address difficulties in product comparison, product evaluation, and online purchasing.
 
+
+<img width="1484" height="1060" alt="image" src="https://github.com/user-attachments/assets/6e670673-e930-4f65-9677-f38f62c4e0d4" />
+
 ## Result:
 
 The user pain points were successfully identified and converted into clear UX problem statements. Appropriate research methods were selected and justified, and user personas were created based on the goals, behaviors, pain points, and motivations of different users. The exercise demonstrated how UX research and persona creation can be used to develop user-centered solutions for different applications.
